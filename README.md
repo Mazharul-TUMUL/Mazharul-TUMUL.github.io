@@ -16,10 +16,6 @@ I'm Mazharul Haque Tumul, a Computer Science and Engineering student passionate 
 - **Version Control**: Git, GitHub
 - **Deployment**: GitHub Pages via `gh-pages`
 
-## 📦 Setup Instructions
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/yourusername.github.io
-   cd yourusername.github.io
+
 
