@@ -3,7 +3,7 @@
 This is my personal portfolio website built using React and styled with modern frontend tools. It showcases my projects, skills, resume, and ways to contact me. The site is deployed using GitHub Pages.
 
 ## 👨‍💻 About Me
-I'm Mazharul Haque Tumul, a Computer Science and Engineering student passionate about AI, machine learning, and full-stack web development. My portfolio reflects my dedication to solving real-world problems through technology.
+I'm Mazharul Haque Tumul, a Computer Science and Engineering student passionate about AI, Machine Learning, and Digital Marketing. My portfolio reflects my dedication to solving real-world problems through technology.
 
 ## 🚀 Features
 - Responsive design for mobile and desktop
